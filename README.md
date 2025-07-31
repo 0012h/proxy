@@ -1,6 +1,4 @@
-Here's the translated and organized content in Markdown format:
 
-```markdown
 # 小新Pad Pro 12.7 2025 (TB375FC) 全球版ROM安装方法
 
 ## 警告
